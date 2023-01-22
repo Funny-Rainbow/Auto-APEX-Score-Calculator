@@ -6,13 +6,13 @@ Automatically calculate all of teams' scores with a provided full-screen screens
   
   How to use:  
   1. Download Main.exe, "Preference picture" folder  
-  2. Paste your screenshot(now it requires a full-screen screenshot with a solution of 1920x1080) to the same catalogue and rename it as: "ScreenShot"  
+  2. Paste your screenshot(now it requires a full-screen screenshot with a solution of 1920x1080) to the same catalogue and rename it as: "ScreenShot.png"  
   3. Run "Main.exe"  
   4. You can see result in result.csv  
   
   使用方法：  
   1. 下载"Main.exe", "Preference picture"文件夹  
-  2. 将你的截图(必须是全屏，且分辨率为1920x1080的截图)粘贴到相同目录下,并且重命名为:"ScreenShot"  
+  2. 将你的截图(必须是全屏，且分辨率为1920x1080的截图)粘贴到相同目录下,并且重命名为:"ScreenShot.png"  
   3. 运行"Main.exe"  
   4. 你可以在"result.csv"中看到结果  
 
